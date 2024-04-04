@@ -20,5 +20,6 @@ Adds crafting recipes for enchantment scrolls.
 Also makes Evil's Protector Fight faster but harder.
 
 # License
-Everything written by me is public domain / CC0
+Everything written by me is public domain / CC0.
+
 Everything from the base game is probably not.
